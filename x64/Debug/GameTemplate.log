@@ -1,0 +1,28 @@
+﻿  Catalog.cpp
+  main.cpp
+  Object.cpp
+  Result.cpp
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\Object\Object.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\Result\Result.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\Catalog\Catalog.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\catalog\catalog.cpp(117): warning C4305: '+=': 'double' から 'float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Catalog\Catalog.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\object\object.cpp(101): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Object\Object.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\catalog\catalog.cpp(120): warning C4305: '-=': 'double' から 'float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Catalog\Catalog.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\catalog\catalog.cpp(132): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Catalog\Catalog.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\catalog\catalog.cpp(148): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Catalog\Catalog.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\object\object.cpp(1526): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Object\Object.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\object\object.cpp(1575): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Object\Object.cpp)
+  Season.cpp
+  Shop.cpp
+  Title.cpp
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\Season\Season.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\Shop\Shop.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\include\freetype\freetype.h(2614): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\Title\Title.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\season\season.cpp(31): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Season\Season.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\shop\shop.cpp(48): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Shop\Shop.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\title\title.cpp(45): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Title\Title.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\title\title.cpp(53): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Title\Title.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\title\title.cpp(59): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Title\Title.cpp)
+c:\users\vantan\desktop\小岩明訓_提出作品\src\shop\shop.cpp(130): warning C4305: '引数': 'double' から 'const float' へ切り詰めます。 (ソース ファイルをコンパイルしています src\Shop\Shop.cpp)
+  GameTemplate.vcxproj -> C:\Users\vantan\Desktop\小岩明訓_提出作品\GameTemplate.exe
